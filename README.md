@@ -11,3 +11,11 @@
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
 ![preview img](/preview.png)
+
+Boxicons (Usage as a Font i.e. for Icons)
+- <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+- <i class='bx bx-home-alt' ></i>
+-- Usually for <i></i> tags, means italics
+Google Fonts (Poppins)
+Dopelycolors
+
